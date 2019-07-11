@@ -1,0 +1,23 @@
+.addRes-container {
+  width: 100vw;
+  height: 40px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.mk-res-btn {
+  background: rgb(0,128,128);
+  width: 180px;
+  height: 20px;
+  font-size: 14px;
+  color: #fff;
+  cursor: pointer;
+}
+
+input {
+  width: 180px;
+  height: 20px;
+  font-size: 14px;
+}
